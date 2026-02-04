@@ -48,3 +48,4 @@ env/
 
 # Environnement
 .env
+*.pcap
