@@ -49,3 +49,6 @@ env/
 # Environnement
 .env
 *.pcap
+
+# Fichiers de verrou LibreOffice
+.~lock.*#
